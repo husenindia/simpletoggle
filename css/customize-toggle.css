@@ -1,0 +1,4 @@
+﻿@charset "utf-8";
+/* CSS Document */
+li { padding:10px; border:#1px solid #CCC; list-style:none; }
+li.active { background-color:#CCC; }
